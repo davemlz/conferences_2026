@@ -64,6 +64,7 @@
   - 2026 Pacific Islands GIS & Remote Sensing User Conference, https://pgrsc.org/pacific-gis-rs-users-conference/, Suva, Fiji, 30 November--4 December 2026
 
 ## South America
+  - **(Spanish)** Semana Geomática 11 Edición Internacional, https://www.igac.gov.co/semana-geomatica-11-edicion-internacional-2026, Bogotá, Colombia, 21--24 July 2026
   - GEOINFO 2026, https://geoinfobr.github.io/, São José dos Campos, Brazil, 07-09 December 2026
 
 ## Similar lists
