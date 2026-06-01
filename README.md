@@ -22,7 +22,7 @@
   - GeoAI 2026, https://geoaiconference.org/, Ghent, 3--5 June 2026
   - Baltic Geospatial Information Technology Conference 2026, https://balticgitconf.eu/, Riga, 4 June 2026
   - Mobile Tartu 2026, https://mobiletartu.ut.ee/, Tartu, 8--10 June 2026
-  - GeoPython 2026, https://2026.geopython.net/, Basel, 8--10 June 2026
+  - ~~GeoPython 2026, https://2026.geopython.net/, Basel, 8--10 June 2026~~ Seems cancelled. Website down, organisers unreachable
   - EUSAR 2026, https://www.eusar.de/en, Baden, 8--11 June 2026
   - 13th International Workshop on Advances in the Science and Applications of SAR Interferometry, https://fringe2026.esa.int/, Kraków, 15--19 June 2026
   - The 29th AGILE Conference, https://agile-gi.eu/, Tartu, 16--19 June 2026
